@@ -1,6 +1,6 @@
 # Code-Otimization-WebPack
 
-<h1> How use the repository </h1>
+<h1> How to use the repository </h1>
 
 <ul type="none">
 <li> 1 - Install repository </li>
