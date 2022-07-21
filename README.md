@@ -29,7 +29,7 @@ If you know NodeJS, you know use the require method, in what you dependencies be
 
 <li>In Output: choose you way out for you repository destiny</li>
  
- <img src="https://raw.githubusercontent.com/leanluizz/Code-Otimization-WebPack/principal/Web-Pack/public/webpack.png"  width="50vw" alt="example" />
+ <img src="https://raw.githubusercontent.com/leanluizz/Code-Otimization-WebPack/principal/Web-Pack/public/webpack.png"  width="200vw" alt="example" />
 
 Ok,code ready...you can use for mini code now but if you use for CSS or others archives, you going need Plugins
 
