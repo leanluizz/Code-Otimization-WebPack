@@ -37,5 +37,5 @@ Ok,code ready...you can use for mini code now but if you use for CSS or others a
 
 <li>The modules serve make for "rules" of code</li>
 
-<li type="none">Ok lets start WebPacking </li>
+<li type="none">Ok lets start WebPacking!!! 😃 </li>
 </ul>
